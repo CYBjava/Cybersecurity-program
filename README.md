@@ -5,6 +5,7 @@ This is a semester long project, Pixelforge studios is a small video game compan
 <br />
 
 <h2>Compliance and regulations </h2>
+
 - <b>NIST framework</b>
 - <b>Payment Card Industry-Data Security Standard</b>
 - <b>General Data Protection Regulation</b>
