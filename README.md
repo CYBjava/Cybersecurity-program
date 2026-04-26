@@ -1,4 +1,4 @@
-<h1>PixelForge Studios</h1>
+<h1>Pixelforge Studios</h1>
 
 <h2>Description</h2>
 This is a semester long project, Pixelforge studios is a small video game company with less than 100 employees. This project focuses on the security policy and business strategy aspect including disaster recovery and Incident response plan.
@@ -13,3 +13,4 @@ This is a semester long project, Pixelforge studios is a small video game compan
 <h2>Documents</h2>
 
 - [Main Document](https://github.com/CYBjava/Cybersecurity-program/blob/main/PixelForge_ProgramDev.docx)
+- [Pixelforge Assets](https://github.com/CYBjava/Cybersecurity-program/blob/main/PixelForge_InventoryofAsstes%26location.xlsx)
